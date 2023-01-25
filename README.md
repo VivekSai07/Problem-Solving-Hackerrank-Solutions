@@ -2,28 +2,28 @@
 
 To get a certificate, two problems have to be solved within 90 minutes.
 
-- [Problem Solving (Basic)](problem-solving-(basic))
-    - [Active Traders](problem-solving-(basic)/active-traders)
-    - [Balanced System Files Partition](problem-solving-(basic)/balanced-system-files-partition)
-    - [Longest Subarray](problem-solving-(basic)/longest-subarray)
-    - [Maximum Cost of Laptop Count](problem-solving-(basic)/maximum-cost-of-laptop-count)
-    - [Nearly Similar Rectangles](certificates/problem-solving-basic/nearly-similar-rectangles)
-    - [Parallel Processing](certificates/problem-solving-basic/parallel-processing)
-    - [Password Decryption](certificates/problem-solving-basic/password-decryption)
-    - [Road Repair](certificates/problem-solving-basic/road-repair)
-    - [String Anagram](certificates/problem-solving-basic/string-anagram)
-    - [Subarray Sums](certificates/problem-solving-basic/subarray-sums)
-    - [Unexpected Demand](certificates/problem-solving-basic/unexpected-demand)
-    - [Usernames Changes](certificates/problem-solving-basic/usernames-changes)
-    - [Vowel Substring](certificates/problem-solving-basic/vowel-substring)
-- [Problem Solving (Intermediate)](certificates/problem-solving-intermediate)
-    - [Bitwise AND](certificates/problem-solving-intermediate/bitwise-and)
-    - [Equalizing Array Elements](certificates/problem-solving-intermediate/equalizing-array-elements)
-    - [File Renaming](certificates/problem-solving-intermediate/file-renaming)
-    - [Hotel Construction](certificates/problem-solving-intermediate/hotel-construction)
-    - [Largest Area](certificates/problem-solving-intermediate/largest-area)
-    - [Maximum Subarray Value](certificates/problem-solving-intermediate/maximum-subarray-value)
-    - [Nice Teams](certificates/problem-solving-intermediate/nice-teams)
-    - [Sorted Sums](certificates/problem-solving-intermediate/sorted-sums)
-    - [Task of Pairing](certificates/problem-solving-intermediate/task-of-pairing)
-    - [User-Friendly Password System](certificates/problem-solving-intermediate/user-friendly-password-system)
+- [Problem Solving (Basic)]
+    - [Active Traders]
+    - [Balanced System Files Partition]
+    - [Longest Subarray]
+    - [Maximum Cost of Laptop Count]
+    - [Nearly Similar Rectangles]
+    - [Parallel Processing]
+    - [Password Decryption]
+    - [Road Repair]
+    - [String Anagram]
+    - [Subarray Sums]
+    - [Unexpected Demand]
+    - [Usernames Changes]
+    - [Vowel Substring]
+- [Problem Solving (Intermediate)]
+    - [Bitwise AND]
+    - [Equalizing Array Elements]
+    - [File Renaming]
+    - [Hotel Construction]
+    - [Largest Area]
+    - [Maximum Subarray Value]
+    - [Nice Teams]
+    - [Sorted Sums]
+    - [Task of Pairing]
+    - [User-Friendly Password System]
